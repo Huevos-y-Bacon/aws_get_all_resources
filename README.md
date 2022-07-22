@@ -5,7 +5,6 @@
 
 **Prerequisites:**
 
-- `yq`
 - `jq`
 - `aws`
 - `awsume`
