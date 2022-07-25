@@ -34,3 +34,9 @@
 
 - **SOURCE** `everywhere.sh` - `awsume` requires the script to be sourced
 - Configured to `awsume` into every profiles prefixed with **`AUDIT`**
+
+---
+
+## extras
+
+- `nonstandard_region_resources.sh` - commanda to extract arns of non-standard region resources (e.g. not deployed in `us-east-1` or `us-west-1`)
